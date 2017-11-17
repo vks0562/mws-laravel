@@ -11,6 +11,12 @@
 
         }
     ],
+   "repositories": [  
+        {  
+            "type": "vcs",  
+            "url": "https://github.com/vks0562/mws-laravel"
+        }  
+    ], 
   "require": {
     "laravel/framework": "5.0 - 5.5",
     "illuminate/support": "5.*",
