@@ -2,7 +2,7 @@
   "name": "vks0562/mws-laravel",
   "description": "A minimal service provider to set up and use the MWS API PHP library in Laravel 5.*",
   "license": "MIT",
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
   "keywords": ["API", "Amazon", "PHP", "MWS", "Laravel", "Persistent", "Config", "Amazon-api", "FBA"],
   "authors": [
         {
